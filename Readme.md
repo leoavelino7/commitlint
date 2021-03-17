@@ -1,11 +1,12 @@
 # **Custom commit**
 
-### Change `.cz-config.js` to custom commit
-### Run `yarn commit`
+#### Change `.cz-config.js` to custom commit
+#### Run `yarn commit`
+<br/>
 
-## Exemple:
+### Example:
 
-### Add new scope (33 line):
+#### Add new scope (33 line):
 
 <pre>
   scopes: [
